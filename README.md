@@ -1,2 +1,2 @@
 # smart-irrigation-system
-<br> Authors bushra qutob meena khaffaf mohammad al zu'bi </br>
+<br> Authors Bushra qutob, Meena khaffaf and Mohammed al zu'bi </br>
